@@ -1,0 +1,1 @@
+This was our project in one of our semesters to create a library system to help the local library manage their books and booking info.
